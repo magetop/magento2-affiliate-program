@@ -17,7 +17,7 @@
 ## More features & Demo
 
 - Extension details : https://www.magetop.com/magento-2-affiliate-extension.html
-- Frontend demo : https://magento2.demo.magetop.com/demo-full/affiliate/
+- Frontend demo : https://magento2.demo.magetop.com/demo-full/affiliate
 - Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
 ## Support & Contact info
