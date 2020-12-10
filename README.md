@@ -1,6 +1,6 @@
-# Magento 2 Affiliate Extension by MageTop
+# Magento 2 Affiliate Extension by Magetop
 
-**Magento 2 Affiliate Extension | Multi-level Marketing Program** by MageTop is one of the most effective marketing solutions for online stores. Drive sales through affiliate pay-per-sale channels. Easily conduct affiliate campaigns by recommending affiliates the best products to promote. Reward affiliates with commissions for every purchase within a campaign.
+**Magento 2 Affiliate Extension | Multi-level Marketing Program** by Magetop is one of the most effective marketing solutions for online stores. Drive sales through affiliate pay-per-sale channels. Easily conduct affiliate campaigns by recommending affiliates the best products to promote. Reward affiliates with commissions for every purchase within a campaign.
 
 ## Highlight features
 
@@ -14,13 +14,13 @@
 - Easy to install and customize.
 - And many more feature ...
 
-## More features & Demo
+## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-affiliate-extension.html
 - Frontend demo : https://magento2.demo.magetop.com/demo-full/affiliate
 - Backend demo : https://magento2.demo.magetop.com/demo-full/admin
 
-## Support & Contact info
+## Support & contact info
 
 - Need help setting up or want to customize this extension to meet your business needs? 
 - Get instant support with our Live Chat
